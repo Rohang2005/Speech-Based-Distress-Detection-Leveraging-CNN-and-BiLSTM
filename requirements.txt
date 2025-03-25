@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+librosa
+numpy
+joblib
+speechrecognition
+tensorflow
+tempfile
+os
